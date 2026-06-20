@@ -1,0 +1,6 @@
+{
+  "name": "Saraiva Advocacia da Saúde",
+  "description": "Assessoria Jurídica Especializada contra Abusos de Planos de Saúde e SUS em Salvador, Bahia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
